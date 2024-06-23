@@ -6,6 +6,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   multiple_attach_test:
     path: ../
+  android_alarm_manager_plus: ^4.0.3

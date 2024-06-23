@@ -8,7 +8,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  android_alarm_manager_plus: ^4.0.3
 
 flutter:
   plugin:
